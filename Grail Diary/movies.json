@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Rick & Morty",
+    "favCharacters": "Rick Sanchez",
+    "seriesRun": "2013 - ",
+    "synopsis": "An animated series that follows the exploits of a super scientist and his not so bright grandson."
+  },
+  {
+    "title": "Futurama",
+    "favCharacters": "Bender",
+    "seriesRun": "1999 - 2013",
+    "synopsis": "Fry, a pizza guy, is accidentally frozen in 1999 and thawed out New Year's Eve 2999."
+  },
+  {
+    "title": "Archer",
+    "favCharacters": "Sterling Archer",
+    "seriesRun": "2009 - ",
+    "synopsis": "Covert black ops and espionage take a back seat to zany personalities and relationships between secret agents and drones."
+  },
+  {
+    "title": "Invader Zim",
+    "favCharacters": "Zim",
+    "seriesRun": "2001 - 2004",
+    "synopsis": "An eccentric alien invader intent on bringing down the human race is foiled at every turn by an equally eccentric and possibly insane paranormal researcher."
+  },
+  {
+    "title": "South Park",
+    "favCharacters": "Kyle",
+    "seriesRun": "1997 - ",
+    "synopsis": "Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado."
+  },
+  {
+    "title": "SpongeBob SquarePants",
+    "favCharacters": "SpongeBob",
+    "seriesRun": "1999 - ",
+    "synopsis": "The series chronicles the adventures and endeavors of SpongeBob and his various friends in the underwater city of Bikini Bottom."
+  },
+  {
+    "title": "King of the Hill",
+    "favCharacters": "Bobby",
+    "seriesRun": "1997 - 2010",
+    "synopsis": "A straight laced propane salesman in Arlen, Texas tries to deal with the wacky antics of his family and friends, while also trying to keep his son in line."
+  },
+  {
+    "title": "The Simpsons",
+    "favCharacters": "Bart",
+    "seriesRun": "1989 - ",
+    "synopsis": "The satiric adventures of a working-class family in the misfit city of Springfield."
+  },
+  {
+    "title": "Bugs Bunny Show",
+    "favCharacters": "Wile E. Coyote",
+    "seriesRun": "1960 - 2000",
+    "synopsis": "An iconic series of comedy short films revolving around the life and times of Bugs Bunny and various other characters in the Looney Tunes universe."
+  },
+  {
+    "title": "Family Guy",
+    "favCharacters": "Stewie",
+    "seriesRun": "1999 - ",
+    "synopsis": "In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another."
+  }
+]
